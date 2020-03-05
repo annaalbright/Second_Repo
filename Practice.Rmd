@@ -1,0 +1,16 @@
+---
+title: "Test Script"
+output: html_notebook
+---
+
+This is a test script to make sure that everything is working! 
+
+```{r}
+x <- 5
+y <- 3
+
+z <- x + y
+
+z
+```
+
